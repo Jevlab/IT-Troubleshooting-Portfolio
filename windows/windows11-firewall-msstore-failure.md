@@ -10,7 +10,7 @@ failure. Tested all standard repair tools before reaching out to Microsoft Suppo
 and performing a full clean OS reinstall via bootable USB.
 
 ## Tools Used
-PowerShell, SFC, DISM, services.msc, winver, Windows ISO, Media Creation Tool, Bootable USB, Google Drive
+PowerShell, SFC, DISM, services.msc, winver, Windows ISO, Media Creation Tool, Bootable USB, Google Drive, Microsoft IT Support
 
 ## Outcome
 Resolved. Full system stability restored after clean OS reinstall.
