@@ -1,4 +1,4 @@
-# Windows 11 - FIrewall & Microsoft Store Failure
+# Windows 11 - Firewall & Microsoft Store Failure
 
 **Full project documentation and dedicated repository:**
 [Windows11-Firewall-Recovery](https://github.com/Jevlab/Windows11-Firewall-Recovery)
