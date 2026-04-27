@@ -9,7 +9,7 @@ experience.
 
 | Project | Category | Tools Used | Status |
 |---|---|---|---|
-| [Windows 11 Firewall & Microsoft Store Failure](windows/windows11-firewall-store-failure.md) | Windows OS / Networking | PowerShell, SFC, DISM, services.msc | Resolved |
+| [Windows 11 Firewall & Microsoft Store Failure](https://github.com/Jevlab/Windows11-Firewall-Recovery.git) | Windows OS / Networking | PowerShell, SFC, DISM, services.msc | Resolved |
 
 ## About
 Building hands on experience through personal projects, home lab work, and experimentation.
