@@ -1,6 +1,6 @@
 # IT Troubleshooting Portfolio
 
-A collection fo real world IT issues I have diagnosed and resolved independently.
+A collection of real world IT issues I have diagnosed and resolved independently.
 Each entry includes a full troubleshooting timeline, tools used, root cause
 analysis, and key learnings. Build to document practical problem solving
 experience.
@@ -9,7 +9,7 @@ experience.
 
 | Project | Category | Tools Used | Status |
 |---|---|---|---|
-| [Windows 11 Firewall & Microsoft Store Failure](https://github.com/Jevlab/Windows11-Firewall-Recovery.git) | Windows OS / Networking | PowerShell, SFC, DISM, services.msc | Resolved |
+| [Windows 11 Firewall & Microsoft Store Failure](https://github.com/Jevlab/Windows11-Firewall-Recovery.git) | Windows OS / Networking / System Recovery | PowerShell, SFC, DISM, services.msc, and more... | Resolved |
 
 ## About
 Building hands on experience through personal projects, home lab work, and experimentation.
