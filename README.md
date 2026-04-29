@@ -10,6 +10,8 @@ experience.
 | Project | Category | Tools Used | Status |
 |---|---|---|---|
 | [Windows 11 Firewall & Microsoft Store Failure](https://github.com/Jevlab/Windows11-Firewall-Recovery.git) | Windows OS / Networking / System Recovery | PowerShell, SFC, DISM, services.msc, and more... | Resolved |
+|||||
+| [IT Command References](https://github.com/Jevlab/IT-Command-References.git) | Windows OS / Networking / System Recovery | PowerShell, System Repair, Services, Networking | Continuing |
 
 ## About
 Building hands on experience through personal projects, home lab work, and experimentation.
